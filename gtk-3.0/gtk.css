@@ -3,16 +3,16 @@
    use responsibly! */
 /*
 widget text/foreground color */
-@define-color theme_fg_color #a1b4ba;
+@define-color theme_fg_color #9200ff;
 /*
 text color for entries, views and content in general */
-@define-color theme_text_color #a1b4ba;
+@define-color theme_text_color #ffffff;
 /*
 widget base background color */
-@define-color theme_bg_color #252a35;
+@define-color theme_bg_color #10111b;
 /*
 text widgets and the like base background color */
-@define-color theme_base_color #252a35;
+@define-color theme_base_color #10111b;
 /*
 view hover decoration color*/
 @define-color theme_view_hover_decoration_color #7e547e;
@@ -21,10 +21,10 @@ background color of hovering selected widgets*/
 @define-color theme_hovering_selected_bg_color #7e547e;
 /*
 base background color of selections */
-@define-color theme_selected_bg_color #ffaaff;
+@define-color theme_selected_bg_color #ff058d;
 /*
 text/foreground color of selections */
-@define-color theme_selected_fg_color #252a35;
+@define-color theme_selected_fg_color #10111b;
 /*
 decoration color of views */
 @define-color theme_view_active_decoration_color #de94de;
@@ -48,25 +48,25 @@ insensitive selected text widgets and the like base background color */
 @define-color insensitive_selected_fg_color #222630;
 /*
 widget text/foreground color on backdrop windows */
-@define-color theme_unfocused_fg_color #a1b4ba;
+@define-color theme_unfocused_fg_color #9200ff;
 /*
 text color for entries, views and content in general on backdrop windows */
-@define-color theme_unfocused_text_color #a1b4ba;
+@define-color theme_unfocused_text_color #9200ff;
 /*
 widget base background color on backdrop windows */
-@define-color theme_unfocused_bg_color #252a35;
+@define-color theme_unfocused_bg_color #10111b;
 /*
 text widgets and the like base background color on backdrop windows */
-@define-color theme_unfocused_base_color #252a35;
+@define-color theme_unfocused_base_color #10111b;
 /*
 base background color of selections on backdrop windows, alt */
-@define-color theme_unfocused_selected_bg_color_alt #ffaaff;
+@define-color theme_unfocused_selected_bg_color_alt #ff058d;
 /*
 base background color of selections on backdrop windows */
 @define-color theme_unfocused_selected_bg_color rgba(255, 170, 255, 0.5);
 /*
 text/foreground color of selections on backdrop windows */
-@define-color theme_unfocused_selected_fg_color #252a35;
+@define-color theme_unfocused_selected_fg_color #10111b;
 /*
 base background color of insensitive selections on backdrop windows */
 @define-color insensitive_unfocused_selected_bg_color rgba(255, 131, 255, 0.35);
@@ -87,10 +87,10 @@ insensitive view background color on backdrop windows */
 @define-color theme_unfocused_view_bg_color #222630;
 /*
 widgets main borders color */
-@define-color borders #444d56;
+@define-color borders #403a72;
 /*
 widgets main borders color on backdrop windows */
-@define-color unfocused_borders #444d56;
+@define-color unfocused_borders #403a72;
 /*
 widgets main borders color insensitive */
 @define-color insensitive_borders rgba(62, 70, 78, 0.35);
@@ -102,21 +102,21 @@ widgets main borders color insensitive backdrop */
 * Button Colors
 *
 */
-@define-color theme_button_background_normal #252a35;
+@define-color theme_button_background_normal #10111b;
 @define-color theme_button_decoration_hover  #7e547e;
 @define-color theme_button_decoration_focus  #de94de;
-@define-color theme_button_foreground_normal #a1b4ba;
-@define-color theme_button_foreground_active #252a35;
+@define-color theme_button_foreground_normal #9200ff;
+@define-color theme_button_foreground_active #10111b;
 @define-color theme_button_background_insensitive        #222630;
 @define-color theme_button_decoration_hover_insensitive  rgba(115, 76, 115, 0.35);
 @define-color theme_button_decoration_focus_insensitive  rgba(214, 122, 214, 0.35);
 @define-color theme_button_foreground_insensitive        rgba(143, 165, 173, 0.35);
 @define-color theme_button_foreground_active_insensitive #222630;
-@define-color theme_button_background_backdrop        #252a35;
+@define-color theme_button_background_backdrop        #10111b;
 @define-color theme_button_decoration_hover_backdrop  #7e547e;
 @define-color theme_button_decoration_focus_backdrop  #de94de;
-@define-color theme_button_foreground_backdrop        #a1b4ba;
-@define-color theme_button_foreground_active_backdrop #252a35;
+@define-color theme_button_foreground_backdrop        #9200ff;
+@define-color theme_button_foreground_active_backdrop #10111b;
 @define-color theme_button_background_backdrop_insensitive        #222630;
 @define-color theme_button_decoration_hover_backdrop_insensitive  rgba(115, 76, 115, 0.35);
 @define-color theme_button_decoration_focus_backdrop_insensitive  rgba(214, 122, 214, 0.35);
@@ -143,24 +143,24 @@ these are pretty self explicative */
 * Titlebar Colors
 *
 */
-@define-color theme_titlebar_background          #252a35;
-@define-color theme_titlebar_foreground          #a1b4ba;
-@define-color theme_titlebar_background_light    #252a35;
+@define-color theme_titlebar_background          #10111b;
+@define-color theme_titlebar_foreground          #9200ff;
+@define-color theme_titlebar_background_light    #10111b;
 @define-color theme_titlebar_foreground_backdrop #7f8c8d;
-@define-color theme_titlebar_background_backdrop #252a35;
+@define-color theme_titlebar_background_backdrop #10111b;
 @define-color theme_titlebar_foreground_insensitive rgba(143, 165, 173, 0.35);
 @define-color theme_titlebar_foreground_insensitive_backdrop rgba(115, 128, 129, 0.35);
 /*
 * Tooltips
 */
-@define-color tooltip_text #a1b4ba;
-@define-color tooltip_background #252a35;
+@define-color tooltip_text #9200ff;
+@define-color tooltip_background #10111b;
 @define-color tooltip_border #444d56;
 /*
 * Misc
 */
 @define-color print_paper_backdrop  white;
-@define-color content_view_bg #252a35;
+@define-color content_view_bg #10111b;
 * {
   padding: 0;
   -GtkToolButton-icon-spacing: 4;
