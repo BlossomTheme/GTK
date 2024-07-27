@@ -1,0 +1,10 @@
+[X-GNOME-Metatheme]
+Name=BlossomTheme
+Type=X-GNOME-Metatheme
+Comment=BlossomGTK Theme
+Encoding=UTF-8
+GtkTheme=BlossomTheme
+MetacityTheme=BlossomTheme
+IconTheme=gnome
+CursorTheme=Blossom
+CursorSize=24
