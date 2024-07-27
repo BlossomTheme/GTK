@@ -1,7 +1,7 @@
 
 # Please keep this gtkrc in sync with the other ones from Clearlooks based themes.
 
-gtk-color-scheme = "base_color:#4f524f\nfg_color:#eeeeec\ntooltip_fg_color:#eeeeee\nselected_bg_color:#3465a4\nselected_fg_color:#eeeeec\ntext_color:#eeeeec\nbg_color:#363b3b\ntooltip_bg_color:#000000"
+gtk-color-scheme = "base_color:#090A0F\nfg_color:#9200ff\ntooltip_fg_color:#eeeeee\nselected_bg_color:#ff058d\nselected_fg_color:#9200ff\ntext_color:#9200ff\nbg_color:#090A0F\ntooltip_bg_color:#000000"
 
 gtk-auto-mnemonics = 1
 

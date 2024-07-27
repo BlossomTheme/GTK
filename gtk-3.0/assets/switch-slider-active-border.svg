@@ -34,7 +34,7 @@
       <stop
          id="stop5399"
          offset="0"
-         style="stop-color:#eeeeec;stop-opacity:1;" />
+         style="stop-color:#9200ff;stop-opacity:1;" />
       <stop
          id="stop5401"
          offset="1"
@@ -91,7 +91,7 @@
        height="12"
        width="1"
        id="rect6052"
-       style="fill:#eeeeec;fill-opacity:1;stroke:none;display:inline;enable-background:new"
+       style="fill:#9200ff;fill-opacity:1;stroke:none;display:inline;enable-background:new"
        transform="matrix(0,1,-1,0,0,0)" />
     <rect
        transform="matrix(0,1,-1,0,0,0)"

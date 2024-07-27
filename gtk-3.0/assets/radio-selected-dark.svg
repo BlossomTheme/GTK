@@ -330,7 +330,7 @@
     <linearGradient
        id="linearGradient4655">
       <stop
-         style="stop-color:#3465a4;stop-opacity:1;"
+         style="stop-color:#ff058d;stop-opacity:1;"
          offset="0"
          id="stop4657" />
       <stop
@@ -492,7 +492,7 @@
            sodipodi:type="arc" />
         <path
            sodipodi:type="arc"
-           style="color:#000000;fill:#3465a4;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4661);stroke-width:1.27423298000000007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:144.44521581000000765;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#ff058d;fill-opacity:1;fill-rule:nonzero;stroke:url(#linearGradient4661);stroke-width:1.27423298000000007;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:144.44521581000000765;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            id="path6309"
            sodipodi:cx="660.96808"
            sodipodi:cy="255.0668"

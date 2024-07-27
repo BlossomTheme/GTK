@@ -207,14 +207,14 @@
          transform="translate(-3.0064634e-6,-0.03618995)"
          id="layer1-96"
          inkscape:label="Layer 1"
-         style="stroke:#717171;stroke-opacity:1">
+         style="stroke:#403a72;stroke-opacity:1">
         <g
            transform="translate(410.00739,765.05452)"
            id="g16895"
-           style="opacity:0.5;stroke:#717171;stroke-opacity:1;enable-background:new">
+           style="opacity:0.5;stroke:#403a72;stroke-opacity:1;enable-background:new">
           <rect
              transform="scale(1,-1)"
-             style="color:#000000;fill:none;stroke:#717171;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+             style="color:#000000;fill:none;stroke:#403a72;stroke-width:1;stroke-opacity:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
              id="rect16897"
              width="11.042357"
              height="11.023263"
@@ -225,7 +225,7 @@
         </g>
       </g>
       <rect
-         style="opacity:0.50000000000000000;color:#000000;fill:#717171;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+         style="opacity:0.50000000000000000;color:#000000;fill:#403a72;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
          id="rect5494"
          width="8.9375"
          height="2"
