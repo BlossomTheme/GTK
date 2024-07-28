@@ -16,10 +16,10 @@ text widgets and the like base background color */
 @define-color theme_base_color #10111b;
 /*
 view hover decoration color*/
-@define-color theme_view_hover_decoration_color #7e547e;
+@define-color theme_view_hover_decoration_color #ff058d;
 /*
 background color of hovering selected widgets*/
-@define-color theme_hovering_selected_bg_color #7e547e;
+@define-color theme_hovering_selected_bg_color #10111b;
 /*
 base background color of selections */
 @define-color theme_selected_bg_color #ff058d;
@@ -31,7 +31,7 @@ decoration color of views */
 @define-color theme_view_active_decoration_color #ff058d;
 /*
 base background color of insensitive selections */
-@define-color insensitive_selected_bg_color rgba(255, 131, 255, 0.35);
+@define-color insensitive_selected_bg_color rgba(255, 5, 141, 0.35);
 /*
 base background color of insensitive widgets */
 @define-color insensitive_bg_color #222630;
