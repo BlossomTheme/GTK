@@ -1,7 +1,9 @@
 # Blossom Theme for [App/Service/etc... Name]
 
 ## Preview
-> Add Screenshots of the theme
+![](./screenshot01.png)
+![](./screenshot02.png)
+![](./screenshot03.png)
 
 ## Installation
 > Add the method to install the theme.
